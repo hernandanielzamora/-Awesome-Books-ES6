@@ -52,7 +52,7 @@ Hello there and welcome to Awesome Books, a page where you can add and save your
 
 - **[Responsive Desing]**
 - **[Javascript Funcionality]**
-- **[User Friendly]**
+- **[ES6 Syntax and modularity]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,8 +101,8 @@ In order to run this project you need:
 
 
 - [ ] **[Finishing the full website]**
-- [ ] **[Adding Navigation Functions]**
-
+- [ ] **[Adding more visual content]**
+- [ ] **[Adding audio books]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
